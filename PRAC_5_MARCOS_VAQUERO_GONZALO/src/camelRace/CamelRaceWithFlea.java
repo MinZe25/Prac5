@@ -10,7 +10,8 @@ public class CamelRaceWithFlea {
 	public static void main (String [] args) {
 		
 		JConsole console = new JConsole (80, 20);
-		
+		//test
+		int a=1;
 		String nameR, nameL;
         boolean gameOver;
         int leftX, leftY;
